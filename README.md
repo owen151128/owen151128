@@ -82,4 +82,7 @@
 	<a href="https://www.rocketpunch.com/@owen151128">
 		<img src="https://github.com/owen151128/owen151128/blob/main/imgs/rocketpunch.png" width="64" height="64">
 	</a>
+	<a href="https://www.linkedin.com/in/owen151128/">
+		<img src="https://github.com/owen151128/owen151128/blob/main/imgs/linkedin.png" width="64" height="64">
+	</a>
 </div>
