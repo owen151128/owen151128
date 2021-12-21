@@ -4,15 +4,15 @@
 
 > 열정이 넘치는 보안 소프트웨어 개발자 **무언가에 꽂히면 누구보다 열정이 넘칩니다.**
 
-> A android security software developer **full of passion**, who is more passionate than anyone else when he is hooked on something.
+> A client security software developer **full of passion**, who is more passionate than anyone else when he is hooked on something.
 
-### <div align="center">I'm Owen151128, a Android security software engineer 👨‍💻 working since 2015 🚀</div>  
+### <div align="center">I'm Owen151128, a Client security software engineer 👨‍💻 working since 2015 🚀</div>  
   
 
 - 🔭 I’m currently working on [Kakaopay](https://www.kakaopay.com/)  
   
 
-- ❓ Ask me about anything related to Android security stack and related technologies  
+- ❓ Ask me about anything related to Client security stack and related technologies  
   
 
 - ⚡ Fun fact: I like coding!!! LOL  
